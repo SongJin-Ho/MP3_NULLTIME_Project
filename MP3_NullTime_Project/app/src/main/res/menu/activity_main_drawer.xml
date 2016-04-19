@@ -5,19 +5,19 @@
         <item
             android:id="@+id/my_schedule"
             android:icon="@drawable/technology_1"
-            android:title="내 시간표" />
+            android:title="@string/my_scehdule" />
         <item
             android:id="@+id/public_schedule"
             android:icon="@drawable/calendar"
-            android:title="공동 시간표" />
+            android:title="@string/public_shedule" />
         <item
             android:id="@+id/url_create_schedule"
             android:icon="@drawable/computer"
-            android:title="URL 시간표 만들기" />
+            android:title="@string/my_URL_create_schedule" />
         <item
             android:id="@+id/url_create_public_schedule"
             android:icon="@drawable/people"
-            android:title="URL 공동 시간표 만들기" />
+            android:title="@string/public_URL_create_schedule" />
     </group>
 
 

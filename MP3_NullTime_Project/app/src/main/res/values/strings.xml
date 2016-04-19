@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="my_scehdule">내 시간표</string>
+    <string name="public_shedule">공강 시간표</string>
+    <string name = "my_URL_create_schedule">내 시간표 가져오기</string>
+    <string name="public_URL_create_schedule">공강 시간표 가져오기</string>
 </resources>
