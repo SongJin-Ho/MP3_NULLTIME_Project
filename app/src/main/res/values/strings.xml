@@ -1,8 +1,33 @@
 <resources>
-    <string name="app_name">MP3_NullTime_Project</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
+    <string name="app_name">MP3_Project_NULLTIME</string>
     <string name="action_settings">Settings</string>
+
+    <string name="table_1">0</string>
+    <string name="table_2">1</string>
+    <string name="table_3">1.5</string>
+    <string name="table_4">2</string>
+    <string name="table_5">2.5</string>
+    <string name="table_6">3</string>
+    <string name="table_7">3.5</string>
+    <string name="table_8">4</string>
+    <string name="table_9">4.5</string>
+    <string name="table_10">5</string>
+    <string name="table_11">5.5</string>
+    <string name="table_12">6</string>
+    <string name="table_13">6.5</string>
+    <string name="table_14">7</string>
+    <string name="table_15">7.5</string>
+    <string name="table_16">8</string>
+    <string name="table_17">8.5</string>
+    <string name="table_18">9</string>
+    <string name="table_19">9.5</string>
+    <string name="table_20">10</string>
+    <string name="table_21">10.5</string>
+    <string name="table_22">11</string>
+    <string name="table_23">12</string>
+    <string name="table_24">13</string>
+    <string name="table_25">14</string>
+    <string name="table_26">15</string>
+    <string name="table_27">16</string>
+
 </resources>

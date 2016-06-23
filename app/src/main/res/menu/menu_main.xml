@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jin_ho.mp3_project_nulltime.MainActivity" >
+
+    <item android:id = "@+id/action_myschedual"
+        android:title="내 시간표"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id = "@+id/action_publicschedual"
+        android:title="공동 시간표"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>

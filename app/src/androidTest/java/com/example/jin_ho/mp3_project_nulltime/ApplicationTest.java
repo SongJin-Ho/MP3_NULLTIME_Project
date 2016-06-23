@@ -1,4 +1,4 @@
-package com.example.jin_ho.mp3_nulltime_project;
+package com.example.jin_ho.mp3_project_nulltime;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
